@@ -6,6 +6,10 @@
 
 **Thoughts:** I'm quite excited. Got a huge motivation boost from the FreeCodeCamp podcasts, so wish me luck! During Spring I learned the basics of JavaScript, but there's so much more to learn.
 
-/***Link to work:** [Calculator App](http://www.example.com)*/
+<!--Link to work:** [Calculator App](http://www.example.com)*--
 
-###
+### Day 1: August 21, 2019
+
+**Today's Progress**:
+
+**Thoughts:**
