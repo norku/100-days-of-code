@@ -10,6 +10,10 @@
 
 ### Day 1: August 21, 2019
 
+![Image of Node Farm](https://github.com/norku/node-bootcamp-course/blob/master/1-node-farm/day2.jpg)
+
 **Today's Progress**: Learned to read and write a file from directory and to create a web server. Wohoo! Created a Node Farm app, finishing "Introduction to Node.js and NPM".
 
 **Thoughts:** I already have some experience from Node, but having a course teaching specifically about Node is really helping me to understand the concepts that were too difficult to me earlier. I also listened to the Ladybug Podcast and got some awesome ideas about it.
+
+Link to work:** [Node Farm](https://github.com/norku/node-bootcamp-course/tree/master/1-node-farm)
