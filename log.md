@@ -18,11 +18,13 @@
 
 **Link to work: [Node Farm](https://github.com/norku/node-bootcamp-course/tree/master/1-node-farm)**
 
+
 ### Day 3: August 22, 2019
 
 **Today's Progress**: Continued the Node bootcamp, added the bootcamp folder to Github, wrote a README and made this log a bit prettier(???)
 
 **Thoughts**: Was having a bit of a lazy day, mainly because of a doctor's appointment that stressed me out more than it should have. While I'm tempted to just continue the Node Bootcamp I might test out my own skills before moving further in the bootcamp. While I enjoy doing what the teacher is doing, I really learn when I'm messing with the code by myself.
+
 
 ### Day 4: August 23, 2019
 
@@ -31,3 +33,10 @@
 **Thoughts**: I had great fun doing animations. After working I was surprised I was able to actually get myself to study and create something. I'm feeling really good! Sometimes it's nice to do something not-so-serious.
 
 **Link to work: [Animated bois](https://codepen.io/norku/pen/KKPaxQb)**
+
+
+### Day 5: August 24, 2019
+
+**Today's Progress**: Tried to wrap my head around Node.js Event loops and requests, etc. Also played with the animations a little bit more, but nothing too significant.
+
+**Thoughts**: I really want to understand what happens in the server side but goshdarnit it's hard. I'm glad I'm over the more theoretical videos soon, because in my current exhausted mindset it just goes over my head.
