@@ -40,3 +40,10 @@
 **Today's Progress**: Tried to wrap my head around Node.js Event loops and requests, etc. Also played with the animations a little bit more, but nothing too significant.
 
 **Thoughts**: I really want to understand what happens in the server side but goshdarnit it's hard. I'm glad I'm over the more theoretical videos soon, because in my current exhausted mindset it just goes over my head.
+
+
+### Day 6: August 25, 2019
+
+**Today's Progress**: Practicing Node.js events, streams and modules. Also tried to learn to use Github. Started to gain more knowledge about Asyncronous JavaScript, will continue and finish that part tomorrow.
+
+**Thoughts**: Not a very exciting few days but it's ok. Learning isn't all the time fun and games. I want to go back to normal JavaScript, HTML and CSS but I really want to learn Node.js! Already have some nice projects in mind!
