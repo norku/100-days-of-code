@@ -47,3 +47,10 @@
 **Today's Progress**: Practicing Node.js events, streams and modules. Also tried to learn to use Github. Started to gain more knowledge about Asyncronous JavaScript, will continue and finish that part tomorrow.
 
 **Thoughts**: Not a very exciting few days but it's ok. Learning isn't all the time fun and games. I want to go back to normal JavaScript, HTML and CSS but I really want to learn Node.js! Already have some nice projects in mind!
+
+
+### Day 7: August 26, 2019
+
+**Today's Progress**: I spent the whole day practicing promises and Asyncronous JavaScript. Also something like 2 hours was used to try to find an error in the code, which ended up being 'fata' instead of 'data'.
+
+**Thoughts**: First I didn't know what to expect of promises but I actually like them. They feel like they make sense. Can't wait to get to the doing parts of the tutorial so I can start also slowly building my own project. I could already do the HTML and CSS part of it, but I'm saving it for the days Node.js feels like eating cardboard. ;) 
