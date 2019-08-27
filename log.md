@@ -53,4 +53,13 @@
 
 **Today's Progress**: I spent the whole day practicing promises and Asyncronous JavaScript. Also something like 2 hours was used to try to find an error in the code, which ended up being 'fata' instead of 'data'.
 
-**Thoughts**: First I didn't know what to expect of promises but I actually like them. They feel like they make sense. Can't wait to get to the doing parts of the tutorial so I can start also slowly building my own project. I could already do the HTML and CSS part of it, but I'm saving it for the days Node.js feels like eating cardboard. ;) 
+**Thoughts**: First I didn't know what to expect of promises but I actually like them. They feel like they make sense. Can't wait to get to the doing parts of the tutorial so I can start also slowly building my own project. I could already do the HTML and CSS part of it, but I'm saving it for the days Node.js feels like eating cardboard. ;)
+
+
+### Day 8: August 27, 2019
+
+**Today's Progress**: Went through JavaScript basics, made a really simple to do list.
+
+**Thoughts**: I realized I didn't remember much from my previous JavaScript courses from this spring, so I went through the basics. Wasn't very exciting but I'm happy I did because I had already forgotten so much. At this point in my 100 days of coding it doesn't hurt to go back to the beginnings to get further in the world of code.
+
+**Link to work: [Really ugly JavaScript basics pen](https://codepen.io/norku/pen/zYOwBOZ)**
