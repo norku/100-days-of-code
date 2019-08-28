@@ -63,3 +63,10 @@
 **Thoughts**: I realized I didn't remember much from my previous JavaScript courses from this spring, so I went through the basics. Wasn't very exciting but I'm happy I did because I had already forgotten so much. At this point in my 100 days of coding it doesn't hurt to go back to the beginnings to get further in the world of code.
 
 **Link to work: [Really ugly JavaScript basics pen](https://codepen.io/norku/pen/zYOwBOZ)**
+
+
+### Day 9: August 28, 2019
+
+**Today's Progress**: Went through the Node.js basics, installed Express and tried to learn more about it. Also started a MongoDB project, where I create a database for my old to-do app.
+
+**Thoughts**: Very excited about the MongoDB even though it's really difficult to understand at first. However, updating old projects is always fun. First I will create a database to it so it will finally work as intended and later I will update its horrible CSS! Win-win all the way.
