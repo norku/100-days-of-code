@@ -70,3 +70,10 @@
 **Today's Progress**: Went through the Node.js basics, installed Express and tried to learn more about it. Also started a MongoDB project, where I create a database for my old to-do app.
 
 **Thoughts**: Very excited about the MongoDB even though it's really difficult to understand at first. However, updating old projects is always fun. First I will create a database to it so it will finally work as intended and later I will update its horrible CSS! Win-win all the way.
+
+
+### Day 10: August 29, 2019
+
+**Today's Progress**: I got the to-do list to send text items to a MongoDB database and show them in the console, but couldn't figure out how to put them in the HTML code to get the to-do item. Spent a couple of hours not sure what to google to get useful results I could use. Later set up my laptop so I can learn CSS while not at home.
+
+**Thoughts**: The Server-Client-Website problem is really frustrating and I need to sit on it for a while. Also had a lot of updates on my computer waiting for me, so most of my free time was wasted on updates. However, everything is set up for tomorrow.
