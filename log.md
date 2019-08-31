@@ -77,3 +77,10 @@
 **Today's Progress**: I got the to-do list to send text items to a MongoDB database and show them in the console, but couldn't figure out how to put them in the HTML code to get the to-do item. Spent a couple of hours not sure what to google to get useful results I could use. Later set up my laptop so I can learn CSS while not at home.
 
 **Thoughts**: The Server-Client-Website problem is really frustrating and I need to sit on it for a while. Also had a lot of updates on my computer waiting for me, so most of my free time was wasted on updates. However, everything is set up for tomorrow.
+
+
+### Day 11: August 30, 2019
+
+**Today's Progress**: Didn't do any work on computer, but rather spent the whole day meeting with people from the finnish Girls Who Code community called #Mimmitkoodaa. Also talked to many local tech companies and asked about job opportunities and what they expect from a candidate and employee.
+
+**Thoughts**: Had a really fun an super motivating day. I have so many different goals to go towards but they all lie at the end of the "learn to code" road. Slowly but steadily getting there. The speeches really gave me strength to try harder and with more resilience! 
