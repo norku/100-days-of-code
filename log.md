@@ -8,6 +8,7 @@
 
 <!--Link to work: [Calculator App](http://www.example.com)*-->
 
+
 ### Day 2: August 21, 2019
 
 ![Image of Node Farm](https://github.com/norku/node-bootcamp-course/blob/master/1-node-farm/day2.jpg)
@@ -84,3 +85,9 @@
 **Today's Progress**: Didn't do any work on computer, but rather spent the whole day meeting with people from the finnish Girls Who Code community called #Mimmitkoodaa. Also talked to many local tech companies and asked about job opportunities and what they expect from a candidate and employee.
 
 **Thoughts**: Had a really fun an super motivating day. I have so many different goals to go towards but they all lie at the end of the "learn to code" road. Slowly but steadily getting there. The speeches really gave me strength to try harder and with more resilience! 
+
+### Day 12: August 31, 2019
+
+**Today's Progress**: Finished the theory part of my CSS tutorials about inheritance, specifity and workflow. I also applied to some web courses at university about DevOps and Service design.
+
+**Thoughts**: Today was a bit of a lazy day mainly because I don't really enjoy working on laptop while not having a proper space. Tomorrow back on my desktop computer ⭐️
