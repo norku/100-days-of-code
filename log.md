@@ -91,3 +91,11 @@
 **Today's Progress**: Finished the theory part of my CSS tutorials about inheritance, specifity and workflow. I also applied to some web courses at university about DevOps and Service design.
 
 **Thoughts**: Today was a bit of a lazy day mainly because I don't really enjoy working on laptop while not having a proper space. Tomorrow back on my desktop computer ⭐️
+
+### Day 13: September 1, 2019
+
+**Today's Progress**: Learned to use SASS (or rather SCSS).
+
+**Thoughts**: Sass is going to make handling CSS much more easier in the future projects, so I'm glad I finally learned about the syntax used. I really want to start doing my own projects but I'm scared my knowledge isn't good enough.
+
+**Link to work: [Small Sass test](https://codepen.io/norku/pen/NWKvmBR)**
