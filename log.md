@@ -99,3 +99,11 @@
 **Thoughts**: Sass is going to make handling CSS much more easier in the future projects, so I'm glad I finally learned about the syntax used. I really want to start doing my own projects but I'm scared my knowledge isn't good enough.
 
 **Link to work: [Small Sass test](https://codepen.io/norku/pen/NWKvmBR)**
+
+### Day 14: September 2, 2019
+
+**Today's Progress**: A little bit of Sass and a whole lot more CSS Grid. I got excited and made a FreeCodeCamp Tribute page project, for Mary Anning.
+
+**Thoughts**: I enjoyed learning and planning my Tribute page. Also, learning more about Mary Anning is always fun. 
+
+**Link to work: [A Tribute page for Mary Anning](https://codepen.io/norku/full/YzKrXgp)**
