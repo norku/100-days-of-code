@@ -107,3 +107,9 @@
 **Thoughts**: I enjoyed learning and planning my Tribute page. Also, learning more about Mary Anning is always fun. 
 
 **Link to work: [A Tribute page for Mary Anning](https://codepen.io/norku/full/YzKrXgp)**
+
+### Day 15: September 3, 2019
+
+**Today's Progress**: Nothing much. Mainly trying to understand Git because it's still a mystery to me.
+
+**Thoughts**: First day of work after a week of vacation took a toll on my energy levels. I will most likely try to continue to learn Node, Express and MongoDB since they are useful and interesting. 
