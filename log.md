@@ -113,3 +113,9 @@
 **Today's Progress**: Nothing much. Mainly trying to understand Git because it's still a mystery to me.
 
 **Thoughts**: First day of work after a week of vacation took a toll on my energy levels. I will most likely try to continue to learn Node, Express and MongoDB since they are useful and interesting. 
+
+### Day 16: September 4, 2019
+
+**Today's Progress**: Going through the Freecodecamp Javascript part, to refresh my memory and there are things I never really lerned, like switches. 
+
+**Thoughts**: I'm preparing to do some serious JavaScripting to learn the language better. Tomorrow I'll also attend a JavaScript meeting at Tampere.
