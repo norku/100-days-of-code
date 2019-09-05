@@ -119,3 +119,8 @@
 **Today's Progress**: Going through the Freecodecamp Javascript part, to refresh my memory and there are things I never really lerned, like switches. 
 
 **Thoughts**: I'm preparing to do some serious JavaScripting to learn the language better. Tomorrow I'll also attend a JavaScript meeting at Tampere.
+
+### Day 17: September 5, 2019
+
+**Today's Progress**: Finished Basic JavaScript tutorials, moved to ES6
+**Thoughts**: Ended up not going to the JavaScript meeting because of not feeling very good. Also got a bit distracted by my new art supplies I had been waiting for far too long. 
