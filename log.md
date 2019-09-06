@@ -123,4 +123,11 @@
 ### Day 17: September 5, 2019
 
 **Today's Progress**: Finished Basic JavaScript tutorials, moved to ES6
+
 **Thoughts**: Ended up not going to the JavaScript meeting because of not feeling very good. Also got a bit distracted by my new art supplies I had been waiting for far too long. 
+
+### Day 18: September 6, 2019
+
+**Today's Progress**: A little bit of ES6 before getting frustrated
+
+**Thoughts**: I might have a JavaScript free day or week to refresh my mind, some of the Freecodecamp's challenges make me really frustrated when I don't understand the assignment and have to peek for the answers to understand. Might try Python a bit.
