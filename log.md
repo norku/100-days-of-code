@@ -131,3 +131,9 @@
 **Today's Progress**: A little bit of ES6 before getting frustrated
 
 **Thoughts**: I might have a JavaScript free day or week to refresh my mind, some of the Freecodecamp's challenges make me really frustrated when I don't understand the assignment and have to peek for the answers to understand. Might try Python a bit.
+
+### Day 19: September 7, 2019
+
+**Today's Progress**: Started to learn Python on Kaggle
+
+**Thoughts**: Python is much easier to read than JavaScript which is a nice change without it being completely different from other bits of coding language I know!
