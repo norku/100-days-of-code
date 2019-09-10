@@ -137,3 +137,21 @@
 **Today's Progress**: Started to learn Python on Kaggle
 
 **Thoughts**: Python is much easier to read than JavaScript which is a nice change without it being completely different from other bits of coding language I know!
+
+### Day 20: September 8, 2019
+
+**Today's Progress**: Learned Python Booleans and Conditional
+
+**Thoughts**: Had a bit lazy day meeting friends and all
+
+### Day 21: September 9, 2019
+
+**Today's Progress**: Python Lists and Loops
+
+**Thoughts**: For some reason wrapping my mind around the loops has been really hard. A couple of times I tried a some sort of JavaScript solution but that didn't work out (surprise surprise!)
+
+### Day 22: September 10, 2019
+
+**Today's Progress**: Finished Lists and Loops (or rather gave up for now) and tried to learn about Strings. 
+
+**Thoughts**: "Easy enough" I thought, then faced the problem of trying to find a certain string from an array. Why is my brain not working?
