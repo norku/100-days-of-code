@@ -155,3 +155,44 @@
 **Today's Progress**: Finished Lists and Loops (or rather gave up for now) and tried to learn about Strings. 
 
 **Thoughts**: "Easy enough" I thought, then faced the problem of trying to find a certain string from an array. Why is my brain not working?
+
+### Day 23: September 11, 2019
+
+**Today's Progress**: Finished Lists and Loops (or rather gave up for now) and tried to learn about Strings. 
+
+**Thoughts**: "Easy enough" I thought, then faced the problem of trying to find a certain string from an array. Why is my brain not working?
+
+### Day 24: September 12, 2019
+
+**Today's Progress**: Didn't progress in coding but had my first online university course about Web Service Design.
+
+**Thoughts**: Quite happy about the course, it will be interesting to create first a design of an interactive web site. In later courses we fully create the web site.
+
+### Day 25: September 13, 2019
+
+**Today's Progress**: Finished learning about Python lists
+
+**Thoughts**: Got inspired to continue my Front End journey.
+
+### Day 26: September 14, 2019
+
+**Today's Progress**: Listened to a lot of inspiring podcasts, but didn't get a lot of progress done.
+
+**Thoughts**: I got really inspired by the FreeCodeCamp podcast and STart Here Web Development podcast. They gave me lots of new energy to continue.
+
+### Day 27: September 15, 2019
+**Today's Progress**: Did Node/Express/Postman tutorial a bit further
+
+**Thoughts**: I'm having a lot of ideas for the future projects, the only trick is to actually do them.
+
+### Day 28: September 16, 2019
+
+**Today's Progress**: Started Wes Bos #Javascript30 and made a Basic Drum Kit. Also started to plan a new and better design for my personal portfolio.
+
+**Thoughts**: Got really inspired by Gary Keller's book The One Thing. It's basically about how you should focus on one thing and do it better rather than work on multiple things and do them all badly. Also, apparently new habits are formed in like 66 days. Still a long way to go and it takes so much willpower to code somedays, but I know it will most likely give me better life, so the thought keeps me going.
+
+### Day 29: September 17, 2019
+
+**Today's Progress**: Did the CSS + JS clock from #Javascript30, started React basics and learned Flexbox with Flexbox Froggy
+
+**Thoughts**: Today was quite productive day. The JavaScript30 is quite fun since it offers small but still interesting tutorials that don't take much time.
